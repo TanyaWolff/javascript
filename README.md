@@ -1,5 +1,9 @@
-## javascript sample from CampKiosk
-# result of converting coffee script to javascript
+# javascript sample from CampKiosk
+## result of converting coffee script to javascript
+Contents:
+- My code is in campground.js
+- Application.js was grabbed from the deployed web application.
+- The section of application.js discussed here is in create_new_site.js
 
 
 Here is a coffeescript function to save a new campsite location:
